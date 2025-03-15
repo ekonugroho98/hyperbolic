@@ -1,6 +1,5 @@
 const fs = require("fs");
 
-// Daftar kata kunci atau topik yang berbeda
 const keywords = [
     "AI", "blockchain", "cloud computing", "IoT", "cybersecurity",
     "sepak bola", "basket", "tenis", "bulu tangkis", "maraton",
@@ -24,7 +23,6 @@ const keywords = [
     "berkebun", "memasak", "menggambar", "menulis", "fotografi"
 ];
 
-// Daftar template pesan yang berbeda
 const templates = [
     "Apa pendapatmu tentang {topic}?",
     "Bisa beri rekomendasi terkait {topic}?",
@@ -53,29 +51,25 @@ const templates = [
     "Bagaimana cara mengelola {topic} dengan baik?"
 ];
 
-// Fungsi untuk menghasilkan pesan acak
 function generateRandomMessage() {
     const randomTemplate = templates[Math.floor(Math.random() * templates.length)];
     const randomKeyword = keywords[Math.floor(Math.random() * keywords.length)];
     return randomTemplate.replace("{topic}", randomKeyword);
 }
 
-// Fungsi untuk menghasilkan 100 pesan
 function generateMessages() {
     const messages = [];
     for (let i = 1; i <= 1000; i++) {
         messages.push({
-            role: "user", // Role bisa disesuaikan (user, assistant, system)
-            content: generateRandomMessage() // Konten pesan yang bervariasi
+            role: "user",
+            content: generateRandomMessage() 
         });
     }
     return messages;
 }
 
-// Generate 100 pesan
 const messages = generateMessages();
 
-// Simpan ke file message.json
 fs.writeFileSync("message.json", JSON.stringify(messages, null, 2), "utf-8");
 
 console.log("File message.json berhasil dibuat dengan 100 pesan yang bervariasi.");

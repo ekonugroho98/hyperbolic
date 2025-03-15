@@ -2,10 +2,8 @@ const axios = require("axios");
 const fs = require("fs");
 require('dotenv').config(); // Tambahkan ini untuk membaca .env
 
-// Baca file message.json
 const messages = JSON.parse(fs.readFileSync("message.json", "utf-8"));
 
-// Daftar model yang tersedia
 const models = [
     "Qwen/QwQ-32B",
     "deepseek-ai/DeepSeek-R1",
@@ -22,27 +20,22 @@ const models = [
     "meta-llama/Meta-Llama-3.1-70B-Instruct"
 ];
 
-// Konfigurasi API
 const url = "https://api.hyperbolic.xyz/v1/chat/completions";
 const headers = {
     "Content-Type": "application/json",
-    "Authorization": `Bearer ${process.env.API_TOKEN}` // Ambil token dari .env
+    "Authorization": `Bearer ${process.env.API_TOKEN}` 
 };
 
-// Fungsi untuk memilih model secara acak
 function getRandomModel() {
     return models[Math.floor(Math.random() * models.length)];
 }
 
-// Fungsi untuk mengirim pesan dengan delay
 async function sendMessagesWithDelay() {
     for (let i = 0; i < messages.length; i++) {
         const message = messages[i];
 
-        // Pilih model secara acak
         const randomModel = getRandomModel();
 
-        // Data untuk permintaan API
         const data = {
             messages: [message],
             model: randomModel,
@@ -52,17 +45,14 @@ async function sendMessagesWithDelay() {
         };
 
         try {
-            // Kirim permintaan POST
             const response = await axios.post(url, data, { headers });
             console.log(`Response for message ${i + 1} (Model: ${randomModel}):`, response.data);
 
-            // Tambahkan delay 5 detik setelah mendapatkan respons
-            await new Promise(resolve => setTimeout(resolve, 5000));
+            await new Promise(resolve => setTimeout(resolve, 2000));
         } catch (error) {
             console.error(`Error for message ${i + 1} (Model: ${randomModel}):`, error.response ? error.response.data : error.message);
         }
     }
 }
 
-// Jalankan fungsi untuk mengirim pesan
 sendMessagesWithDelay();
