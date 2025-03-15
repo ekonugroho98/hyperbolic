@@ -1,0 +1,4002 @@
+[
+  {
+    "role": "user",
+    "content": "Apa saja tips untuk pemula dalam anjing?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tips untuk pemula dalam menulis?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja mitos tentang dessert?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memilih kota yang tepat?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tantangan terbesar dalam menggambar?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memilih novel yang tepat?"
+  },
+  {
+    "role": "user",
+    "content": "Apa manfaat dari sustainable fashion?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mempromosikan burger?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tren terbaru di bidang menggambar?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana perkembangan street food saat ini?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja keuntungan dari sustainable fashion?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengatasi masalah dalam MOBA?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja keuntungan dari non-fiksi?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tips untuk pemula dalam menulis?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengatasi masalah dalam reptil?"
+  },
+  {
+    "role": "user",
+    "content": "Apa yang menarik dari diet?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja mitos tentang skincare?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja mitos tentang sepak bola?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tantangan yang dihadapi dalam budget travel?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengatasi masalah dalam jazz?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tips untuk pemula dalam taman nasional?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana perkembangan dessert saat ini?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tantangan terbesar dalam FPS?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja kesalahan umum dalam gunung?"
+  },
+  {
+    "role": "user",
+    "content": "Apa pendapatmu tentang budget travel?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara meningkatkan gunung?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja inovasi terbaru di bidang dokumenter?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengelola dokumenter dengan baik?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja inovasi terbaru di bidang haute couture?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tren terbaru di bidang burung?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja mitos tentang tenis?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengatasi masalah dalam sepak bola?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa jelaskan lebih detail tentang salad?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa jelaskan lebih detail tentang rock?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja langkah-langkah untuk sukses dalam ujian?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tantangan yang dihadapi dalam salad?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana perkembangan horor saat ini?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengelola kerajinan tangan dengan baik?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memulai IoT?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja kesalahan umum dalam burung?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja langkah-langkah untuk sukses dalam rock?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja mitos tentang kucing?"
+  },
+  {
+    "role": "user",
+    "content": "Apa yang menarik dari sustainable fashion?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengembangkan cybersecurity?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri tips untuk dokumenter?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tren terbaru di bidang e-commerce?"
+  },
+  {
+    "role": "user",
+    "content": "Apa yang menarik dari backpacking?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tren terbaru di bidang budget travel?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memulai novel?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri rekomendasi terkait fotografi?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memilih mobil sport yang tepat?"
+  },
+  {
+    "role": "user",
+    "content": "Apa yang menarik dari luxury travel?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengembangkan sustainable fashion?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengelola streetwear dengan baik?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja alat atau sumber daya yang dibutuhkan untuk maraton?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja langkah-langkah untuk sukses dalam taman nasional?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja alat atau sumber daya yang dibutuhkan untuk fusion food?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja mitos tentang startup?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tantangan terbesar dalam solo travel?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja alat atau sumber daya yang dibutuhkan untuk jazz?"
+  },
+  {
+    "role": "user",
+    "content": "Apa yang menarik dari cybersecurity?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tips untuk pemula dalam kurikulum?"
+  },
+  {
+    "role": "user",
+    "content": "Apa yang menarik dari motor?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja inovasi terbaru di bidang IoT?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memilih sastra yang tepat?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja alat atau sumber daya yang dibutuhkan untuk aksesoris?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memulai skincare?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara meningkatkan memasak?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tantangan yang dihadapi dalam memasak?"
+  },
+  {
+    "role": "user",
+    "content": "Apa yang menarik dari cybersecurity?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri tips untuk cybersecurity?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengelola maraton dengan baik?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tips untuk pemula dalam MOBA?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mempromosikan fragrance?"
+  },
+  {
+    "role": "user",
+    "content": "Apa yang menarik dari yoga?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tantangan terbesar dalam ikan?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengelola blockchain dengan baik?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengatasi masalah dalam cybersecurity?"
+  },
+  {
+    "role": "user",
+    "content": "Apa pendapatmu tentang basket?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tantangan yang dihadapi dalam cloud computing?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tips untuk pemula dalam marketing?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memulai manajemen?"
+  },
+  {
+    "role": "user",
+    "content": "Apa manfaat dari homeschooling?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tren terbaru di bidang dokumenter?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tantangan terbesar dalam mobil listrik?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengelola cybersecurity dengan baik?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tantangan yang dihadapi dalam basket?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja alat atau sumber daya yang dibutuhkan untuk dokumenter?"
+  },
+  {
+    "role": "user",
+    "content": "Apa manfaat dari maraton?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tren terbaru di bidang yoga?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri tips untuk ikan?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tantangan yang dihadapi dalam reksadana?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengembangkan komik?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tren terbaru di bidang saham?"
+  },
+  {
+    "role": "user",
+    "content": "Apa pendapatmu tentang game mobile?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tantangan yang dihadapi dalam ikan?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengelola pizza dengan baik?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengembangkan biografi?"
+  },
+  {
+    "role": "user",
+    "content": "Apa yang menarik dari olahraga?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja keuntungan dari jazz?"
+  },
+  {
+    "role": "user",
+    "content": "Apa pendapatmu tentang lukisan?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara meningkatkan rambut?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara meningkatkan yoga?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja inovasi terbaru di bidang ujian?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja kesalahan umum dalam memasak?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengatasi masalah dalam fragrance?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengelola bulu tangkis dengan baik?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengatasi masalah dalam meditasi?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tren terbaru di bidang anjing?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengatasi masalah dalam ikan?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri tips untuk backpacking?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana perkembangan homeschooling saat ini?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tantangan terbesar dalam makeup?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memanfaatkan homeschooling secara maksimal?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja langkah-langkah untuk sukses dalam blockchain?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengatasi masalah dalam keuangan?"
+  },
+  {
+    "role": "user",
+    "content": "Apa pendapatmu tentang lukisan?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa jelaskan lebih detail tentang fotografi?"
+  },
+  {
+    "role": "user",
+    "content": "Apa pendapatmu tentang saham?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengembangkan blockchain?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri tips untuk novel?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa jelaskan lebih detail tentang pantai?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memulai properti?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengembangkan berkebun?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mempromosikan properti?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja langkah-langkah untuk sukses dalam patung?"
+  },
+  {
+    "role": "user",
+    "content": "Apa manfaat dari dokumenter?"
+  },
+  {
+    "role": "user",
+    "content": "Apa pendapatmu tentang kurikulum?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tantangan yang dihadapi dalam crypto?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memanfaatkan horor secara maksimal?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tantangan yang dihadapi dalam olahraga?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara meningkatkan IoT?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri tips untuk salad?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja langkah-langkah untuk sukses dalam street food?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara meningkatkan olahraga?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memulai motor?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri rekomendasi terkait drama?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja kesalahan umum dalam indie games?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja mitos tentang kurikulum?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengembangkan lukisan?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri rekomendasi terkait streetwear?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengatasi masalah dalam meditasi?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja alat atau sumber daya yang dibutuhkan untuk motor?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana perkembangan seni digital saat ini?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tren terbaru di bidang lukisan?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengembangkan IoT?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa jelaskan lebih detail tentang saham?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tips untuk pemula dalam novel?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri tips untuk memasak?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tantangan yang dihadapi dalam meditasi?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri tips untuk komedi?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri rekomendasi terkait fine dining?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana perkembangan hip-hop saat ini?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja keuntungan dari burung?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri tips untuk haute couture?"
+  },
+  {
+    "role": "user",
+    "content": "Apa manfaat dari online learning?"
+  },
+  {
+    "role": "user",
+    "content": "Apa manfaat dari klasik?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengembangkan yoga?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja alat atau sumber daya yang dibutuhkan untuk gunung?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri rekomendasi terkait mobil sport?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memanfaatkan MOBA secara maksimal?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara meningkatkan dokumenter?"
+  },
+  {
+    "role": "user",
+    "content": "Apa pendapatmu tentang maraton?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja kesalahan umum dalam gunung?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana perkembangan AI saat ini?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tren terbaru di bidang klasik?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja langkah-langkah untuk sukses dalam ikan?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tren terbaru di bidang makeup?"
+  },
+  {
+    "role": "user",
+    "content": "Apa manfaat dari masakan tradisional?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tren terbaru di bidang kucing?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mempromosikan backpacking?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tips untuk pemula dalam horor?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja langkah-langkah untuk sukses dalam reptil?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengelola mental health dengan baik?"
+  },
+  {
+    "role": "user",
+    "content": "Apa yang menarik dari pantai?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tantangan terbesar dalam street food?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengelola emas dengan baik?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tips untuk pemula dalam menulis?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memanfaatkan fragrance secara maksimal?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja alat atau sumber daya yang dibutuhkan untuk keuangan?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tips untuk pemula dalam makeup?"
+  },
+  {
+    "role": "user",
+    "content": "Apa pendapatmu tentang dokumenter?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengatasi masalah dalam AI?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri tips untuk olahraga?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tren terbaru di bidang skincare?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mempromosikan sustainable fashion?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memilih motor yang tepat?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tantangan terbesar dalam cloud computing?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tips untuk pemula dalam homeschooling?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja kesalahan umum dalam RPG?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memulai bulu tangkis?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memilih bulu tangkis yang tepat?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja alat atau sumber daya yang dibutuhkan untuk bulu tangkis?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memilih kota yang tepat?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memulai keuangan?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja langkah-langkah untuk sukses dalam ujian?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tips untuk pemula dalam mobil listrik?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa jelaskan lebih detail tentang fotografi?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memanfaatkan komedi secara maksimal?"
+  },
+  {
+    "role": "user",
+    "content": "Apa pendapatmu tentang patung?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja langkah-langkah untuk sukses dalam saham?"
+  },
+  {
+    "role": "user",
+    "content": "Apa manfaat dari horor?"
+  },
+  {
+    "role": "user",
+    "content": "Apa yang menarik dari biografi?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana perkembangan cybersecurity saat ini?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja keuntungan dari manajemen?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memanfaatkan budget travel secara maksimal?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja keuntungan dari crypto?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memanfaatkan mobil sport secara maksimal?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara meningkatkan manajemen?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa jelaskan lebih detail tentang maraton?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengelola horor dengan baik?"
+  },
+  {
+    "role": "user",
+    "content": "Apa pendapatmu tentang solo travel?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa jelaskan lebih detail tentang drama?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja mitos tentang ikan?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memilih marketing yang tepat?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana perkembangan fine dining saat ini?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana perkembangan solo travel saat ini?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tips untuk pemula dalam AI?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa jelaskan lebih detail tentang streetwear?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara meningkatkan hip-hop?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja inovasi terbaru di bidang ikan?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri tips untuk meditasi?"
+  },
+  {
+    "role": "user",
+    "content": "Apa pendapatmu tentang fotografi?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tantangan yang dihadapi dalam dessert?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tantangan yang dihadapi dalam fine dining?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri rekomendasi terkait kota?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mempromosikan desa?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara meningkatkan dessert?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja kesalahan umum dalam olahraga?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara meningkatkan fotografi?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memanfaatkan menggambar secara maksimal?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memilih mobil sport yang tepat?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tren terbaru di bidang skincare?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memanfaatkan indie games secara maksimal?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja kesalahan umum dalam pantai?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja keuntungan dari pop?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengatasi masalah dalam yoga?"
+  },
+  {
+    "role": "user",
+    "content": "Apa yang menarik dari novel?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tantangan terbesar dalam hip-hop?"
+  },
+  {
+    "role": "user",
+    "content": "Apa pendapatmu tentang saham?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri tips untuk dessert?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja mitos tentang cloud computing?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja alat atau sumber daya yang dibutuhkan untuk reptil?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa jelaskan lebih detail tentang lukisan?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana perkembangan menggambar saat ini?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengatasi masalah dalam fusion food?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri tips untuk perawatan tubuh?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memanfaatkan mobil listrik secara maksimal?"
+  },
+  {
+    "role": "user",
+    "content": "Apa manfaat dari olahraga?"
+  },
+  {
+    "role": "user",
+    "content": "Apa manfaat dari non-fiksi?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengembangkan maraton?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memanfaatkan motor secara maksimal?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri rekomendasi terkait gunung?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja mitos tentang sastra?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri tips untuk berkebun?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri rekomendasi terkait cloud computing?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tantangan yang dihadapi dalam gunung?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengatasi masalah dalam burung?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memanfaatkan menulis secara maksimal?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja keuntungan dari olahraga?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja kesalahan umum dalam reptil?"
+  },
+  {
+    "role": "user",
+    "content": "Apa pendapatmu tentang horor?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja kesalahan umum dalam perawatan tubuh?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja keuntungan dari homeschooling?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengelola hip-hop dengan baik?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memulai maraton?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengatasi masalah dalam lukisan?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memilih emas yang tepat?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja keuntungan dari fusion food?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja mitos tentang memasak?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengatasi masalah dalam online learning?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memulai meditasi?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tren terbaru di bidang biografi?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja mitos tentang marketing?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja inovasi terbaru di bidang olahraga?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri tips untuk salad?"
+  },
+  {
+    "role": "user",
+    "content": "Apa yang menarik dari desa?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana perkembangan gunung saat ini?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri tips untuk game mobile?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja inovasi terbaru di bidang budget travel?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tantangan yang dihadapi dalam pizza?"
+  },
+  {
+    "role": "user",
+    "content": "Apa manfaat dari game mobile?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri rekomendasi terkait cybersecurity?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja alat atau sumber daya yang dibutuhkan untuk kota?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja langkah-langkah untuk sukses dalam meditasi?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memanfaatkan properti secara maksimal?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa jelaskan lebih detail tentang sci-fi?"
+  },
+  {
+    "role": "user",
+    "content": "Apa yang menarik dari AI?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tren terbaru di bidang AI?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tantangan terbesar dalam burung?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja keuntungan dari gunung?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara meningkatkan skincare?"
+  },
+  {
+    "role": "user",
+    "content": "Apa pendapatmu tentang maraton?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memilih tenis yang tepat?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tren terbaru di bidang sushi?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri rekomendasi terkait properti?"
+  },
+  {
+    "role": "user",
+    "content": "Apa manfaat dari sastra?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengatasi masalah dalam menggambar?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengembangkan indie games?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tips untuk pemula dalam ujian?"
+  },
+  {
+    "role": "user",
+    "content": "Apa pendapatmu tentang desa?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja mitos tentang street food?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengatasi masalah dalam desa?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja keuntungan dari drama?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana perkembangan horor saat ini?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa jelaskan lebih detail tentang sastra?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memilih jazz yang tepat?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memulai luxury travel?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana perkembangan kota saat ini?"
+  },
+  {
+    "role": "user",
+    "content": "Apa yang menarik dari backpacking?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengembangkan klasik?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengelola fusion food dengan baik?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tips untuk pemula dalam maraton?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengembangkan fusion food?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri tips untuk skincare?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja alat atau sumber daya yang dibutuhkan untuk cloud computing?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja alat atau sumber daya yang dibutuhkan untuk pizza?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memanfaatkan fragrance secara maksimal?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja alat atau sumber daya yang dibutuhkan untuk reptil?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengembangkan komik?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memilih startup yang tepat?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja mitos tentang komedi?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mempromosikan rock?"
+  },
+  {
+    "role": "user",
+    "content": "Apa manfaat dari game mobile?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memulai jazz?"
+  },
+  {
+    "role": "user",
+    "content": "Apa manfaat dari blockchain?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tips untuk pemula dalam novel?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memanfaatkan non-fiksi secara maksimal?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tips untuk pemula dalam cybersecurity?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengelola properti dengan baik?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara meningkatkan sepak bola?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tren terbaru di bidang perawatan tubuh?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja kesalahan umum dalam tenis?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memanfaatkan horor secara maksimal?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja keuntungan dari sepak bola?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memilih horor yang tepat?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memanfaatkan kota secara maksimal?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tips untuk pemula dalam diet?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa jelaskan lebih detail tentang patung?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengatasi masalah dalam ikan?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengatasi masalah dalam reksadana?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memilih mobil sport yang tepat?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja alat atau sumber daya yang dibutuhkan untuk mobil listrik?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengelola desa dengan baik?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri tips untuk sushi?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memilih online learning yang tepat?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengembangkan horor?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memulai fusion food?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tren terbaru di bidang berkebun?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja alat atau sumber daya yang dibutuhkan untuk pizza?"
+  },
+  {
+    "role": "user",
+    "content": "Apa yang menarik dari olahraga?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tantangan yang dihadapi dalam perawatan tubuh?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja kesalahan umum dalam MOBA?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja keuntungan dari modifikasi?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tantangan terbesar dalam masakan tradisional?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengatasi masalah dalam menulis?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara meningkatkan dokumenter?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tren terbaru di bidang rambut?"
+  },
+  {
+    "role": "user",
+    "content": "Apa yang menarik dari berkebun?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tantangan yang dihadapi dalam modifikasi?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri tips untuk luxury travel?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tips untuk pemula dalam gunung?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengatasi masalah dalam marketing?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja alat atau sumber daya yang dibutuhkan untuk IoT?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mempromosikan fotografi?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengembangkan startup?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tantangan yang dihadapi dalam sastra?"
+  },
+  {
+    "role": "user",
+    "content": "Apa manfaat dari memasak?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja langkah-langkah untuk sukses dalam blockchain?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mempromosikan pop?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengatasi masalah dalam motor?"
+  },
+  {
+    "role": "user",
+    "content": "Apa manfaat dari ikan?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja keuntungan dari kucing?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memulai properti?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tips untuk pemula dalam perawatan tubuh?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tantangan terbesar dalam game mobile?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tantangan terbesar dalam skincare?"
+  },
+  {
+    "role": "user",
+    "content": "Apa manfaat dari perawatan tubuh?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tren terbaru di bidang cybersecurity?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara meningkatkan IoT?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri tips untuk kurikulum?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tips untuk pemula dalam homeschooling?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja alat atau sumber daya yang dibutuhkan untuk drama?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tips untuk pemula dalam masakan tradisional?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengelola kerajinan tangan dengan baik?"
+  },
+  {
+    "role": "user",
+    "content": "Apa yang menarik dari homeschooling?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja inovasi terbaru di bidang sushi?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tantangan yang dihadapi dalam sushi?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tantangan terbesar dalam masakan tradisional?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengelola aksesoris dengan baik?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja mitos tentang marketing?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tips untuk pemula dalam kota?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memilih menulis yang tepat?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengelola emas dengan baik?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memanfaatkan mobil sport secara maksimal?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri rekomendasi terkait sustainable fashion?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja inovasi terbaru di bidang emas?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tren terbaru di bidang modifikasi?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana perkembangan sustainable fashion saat ini?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengatasi masalah dalam solo travel?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja alat atau sumber daya yang dibutuhkan untuk startup?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja inovasi terbaru di bidang aksesoris?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara meningkatkan solo travel?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memanfaatkan memasak secara maksimal?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja langkah-langkah untuk sukses dalam mobil listrik?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri tips untuk burger?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri rekomendasi terkait desa?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengatasi masalah dalam sushi?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja keuntungan dari jazz?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tantangan yang dihadapi dalam reksadana?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja inovasi terbaru di bidang horor?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja keuntungan dari dessert?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tantangan terbesar dalam dokumenter?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tren terbaru di bidang indie games?"
+  },
+  {
+    "role": "user",
+    "content": "Apa pendapatmu tentang dokumenter?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja mitos tentang backpacking?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tantangan terbesar dalam indie games?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tantangan yang dihadapi dalam luxury travel?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memilih budget travel yang tepat?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja kesalahan umum dalam mental health?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tantangan terbesar dalam diet?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri rekomendasi terkait modifikasi?"
+  },
+  {
+    "role": "user",
+    "content": "Apa yang menarik dari fragrance?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengatasi masalah dalam patung?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja mitos tentang bulu tangkis?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja kesalahan umum dalam drama?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja alat atau sumber daya yang dibutuhkan untuk seni digital?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja mitos tentang mobil sport?"
+  },
+  {
+    "role": "user",
+    "content": "Apa yang menarik dari RPG?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tips untuk pemula dalam emas?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja keuntungan dari maraton?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa jelaskan lebih detail tentang non-fiksi?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja alat atau sumber daya yang dibutuhkan untuk rambut?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja inovasi terbaru di bidang hip-hop?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara meningkatkan hip-hop?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tren terbaru di bidang diet?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja langkah-langkah untuk sukses dalam motor?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja inovasi terbaru di bidang meditasi?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja mitos tentang mobil sport?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengelola meditasi dengan baik?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tantangan terbesar dalam mental health?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja kesalahan umum dalam sepak bola?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memilih FPS yang tepat?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memanfaatkan perawatan tubuh secara maksimal?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mempromosikan seni digital?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara meningkatkan FPS?"
+  },
+  {
+    "role": "user",
+    "content": "Apa yang menarik dari homeschooling?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tantangan yang dihadapi dalam e-commerce?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengembangkan diet?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja mitos tentang cloud computing?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memilih mental health yang tepat?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri rekomendasi terkait cloud computing?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tips untuk pemula dalam seni digital?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja langkah-langkah untuk sukses dalam menggambar?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa jelaskan lebih detail tentang maraton?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri rekomendasi terkait pantai?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja inovasi terbaru di bidang blockchain?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memulai e-commerce?"
+  },
+  {
+    "role": "user",
+    "content": "Apa manfaat dari masakan tradisional?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja keuntungan dari cybersecurity?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa jelaskan lebih detail tentang aksesoris?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memilih yoga yang tepat?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tips untuk pemula dalam mobil sport?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memanfaatkan saham secara maksimal?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja kesalahan umum dalam cloud computing?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana perkembangan aksesoris saat ini?"
+  },
+  {
+    "role": "user",
+    "content": "Apa pendapatmu tentang drama?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tren terbaru di bidang klasik?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memulai crypto?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tantangan yang dihadapi dalam meditasi?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memanfaatkan novel secara maksimal?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tips untuk pemula dalam properti?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja inovasi terbaru di bidang kerajinan tangan?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengelola fusion food dengan baik?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja mitos tentang sushi?"
+  },
+  {
+    "role": "user",
+    "content": "Apa pendapatmu tentang fusion food?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa jelaskan lebih detail tentang cybersecurity?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja alat atau sumber daya yang dibutuhkan untuk anjing?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja inovasi terbaru di bidang fotografi?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengembangkan mobil sport?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja inovasi terbaru di bidang hip-hop?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja langkah-langkah untuk sukses dalam gunung?"
+  },
+  {
+    "role": "user",
+    "content": "Apa pendapatmu tentang pantai?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengelola mental health dengan baik?"
+  },
+  {
+    "role": "user",
+    "content": "Apa manfaat dari keuangan?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri rekomendasi terkait modifikasi?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja keuntungan dari reksadana?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri tips untuk novel?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tantangan yang dihadapi dalam online learning?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja mitos tentang pantai?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memilih drama yang tepat?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja mitos tentang basket?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa jelaskan lebih detail tentang makeup?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri rekomendasi terkait crypto?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tips untuk pemula dalam mental health?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri rekomendasi terkait rambut?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memilih streetwear yang tepat?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri rekomendasi terkait backpacking?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memanfaatkan cybersecurity secara maksimal?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tren terbaru di bidang marketing?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengelola motor dengan baik?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja langkah-langkah untuk sukses dalam sushi?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri rekomendasi terkait jazz?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja mitos tentang keuangan?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memilih perawatan tubuh yang tepat?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja keuntungan dari basket?"
+  },
+  {
+    "role": "user",
+    "content": "Apa manfaat dari tenis?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengatasi masalah dalam fotografi?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tantangan yang dihadapi dalam basket?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri tips untuk maraton?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa jelaskan lebih detail tentang dessert?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara meningkatkan desa?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja mitos tentang komik?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana perkembangan properti saat ini?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja mitos tentang streetwear?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mempromosikan pantai?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengelola fine dining dengan baik?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja keuntungan dari memasak?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri rekomendasi terkait luxury travel?"
+  },
+  {
+    "role": "user",
+    "content": "Apa manfaat dari komedi?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mempromosikan kerajinan tangan?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja langkah-langkah untuk sukses dalam olahraga?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tantangan yang dihadapi dalam lukisan?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa jelaskan lebih detail tentang ikan?"
+  },
+  {
+    "role": "user",
+    "content": "Apa manfaat dari streetwear?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memilih skincare yang tepat?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja kesalahan umum dalam reksadana?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengatasi masalah dalam backpacking?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memulai sustainable fashion?"
+  },
+  {
+    "role": "user",
+    "content": "Apa pendapatmu tentang sci-fi?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tantangan yang dihadapi dalam reksadana?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja mitos tentang olahraga?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja alat atau sumber daya yang dibutuhkan untuk seni digital?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana perkembangan desa saat ini?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tantangan yang dihadapi dalam e-commerce?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengembangkan modifikasi?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengembangkan memasak?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja langkah-langkah untuk sukses dalam sustainable fashion?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja keuntungan dari pop?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri tips untuk backpacking?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengembangkan sci-fi?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tantangan yang dihadapi dalam backpacking?"
+  },
+  {
+    "role": "user",
+    "content": "Apa yang menarik dari memasak?"
+  },
+  {
+    "role": "user",
+    "content": "Apa manfaat dari crypto?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri rekomendasi terkait taman nasional?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tren terbaru di bidang properti?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja langkah-langkah untuk sukses dalam komedi?"
+  },
+  {
+    "role": "user",
+    "content": "Apa pendapatmu tentang keuangan?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja mitos tentang keuangan?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengembangkan fotografi?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengembangkan emas?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja keuntungan dari salad?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja keuntungan dari horor?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tren terbaru di bidang solo travel?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja alat atau sumber daya yang dibutuhkan untuk gunung?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengatasi masalah dalam startup?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mempromosikan dokumenter?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tantangan terbesar dalam non-fiksi?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja kesalahan umum dalam indie games?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengatasi masalah dalam street food?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara meningkatkan mobil sport?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memilih motor yang tepat?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memanfaatkan salad secara maksimal?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri rekomendasi terkait properti?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tantangan terbesar dalam mobil listrik?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memilih kota yang tepat?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memilih emas yang tepat?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana perkembangan fine dining saat ini?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja mitos tentang mobil listrik?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mempromosikan lukisan?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memanfaatkan luxury travel secara maksimal?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tren terbaru di bidang hip-hop?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja keuntungan dari aksesoris?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja langkah-langkah untuk sukses dalam salad?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tips untuk pemula dalam e-commerce?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa jelaskan lebih detail tentang sushi?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri tips untuk sepak bola?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana perkembangan dessert saat ini?"
+  },
+  {
+    "role": "user",
+    "content": "Apa manfaat dari meditasi?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja alat atau sumber daya yang dibutuhkan untuk mobil listrik?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mempromosikan keuangan?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tantangan terbesar dalam fine dining?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengelola mobil listrik dengan baik?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tantangan yang dihadapi dalam maraton?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tantangan terbesar dalam sustainable fashion?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja mitos tentang basket?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa jelaskan lebih detail tentang rambut?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mempromosikan novel?"
+  },
+  {
+    "role": "user",
+    "content": "Apa manfaat dari cybersecurity?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mempromosikan drama?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mempromosikan hip-hop?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja langkah-langkah untuk sukses dalam sustainable fashion?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tantangan terbesar dalam mobil sport?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengelola keuangan dengan baik?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri rekomendasi terkait skincare?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja langkah-langkah untuk sukses dalam burung?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana perkembangan pantai saat ini?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja alat atau sumber daya yang dibutuhkan untuk drama?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja kesalahan umum dalam FPS?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja inovasi terbaru di bidang kerajinan tangan?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengembangkan horor?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja kesalahan umum dalam budget travel?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri rekomendasi terkait streetwear?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengatasi masalah dalam MOBA?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja mitos tentang patung?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri tips untuk bulu tangkis?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengelola online learning dengan baik?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja mitos tentang RPG?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja alat atau sumber daya yang dibutuhkan untuk burger?"
+  },
+  {
+    "role": "user",
+    "content": "Apa manfaat dari berkebun?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memanfaatkan fusion food secara maksimal?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tantangan yang dihadapi dalam sci-fi?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memulai burger?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja alat atau sumber daya yang dibutuhkan untuk AI?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mempromosikan menggambar?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja langkah-langkah untuk sukses dalam motor?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja langkah-langkah untuk sukses dalam aksesoris?"
+  },
+  {
+    "role": "user",
+    "content": "Apa pendapatmu tentang e-commerce?"
+  },
+  {
+    "role": "user",
+    "content": "Apa manfaat dari berkebun?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja mitos tentang taman nasional?"
+  },
+  {
+    "role": "user",
+    "content": "Apa yang menarik dari kurikulum?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tantangan terbesar dalam cloud computing?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tantangan yang dihadapi dalam dessert?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memanfaatkan marketing secara maksimal?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa jelaskan lebih detail tentang fotografi?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tantangan yang dihadapi dalam startup?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri tips untuk taman nasional?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja alat atau sumber daya yang dibutuhkan untuk sustainable fashion?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tren terbaru di bidang pizza?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja keuntungan dari emas?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja alat atau sumber daya yang dibutuhkan untuk novel?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memanfaatkan pantai secara maksimal?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tips untuk pemula dalam patung?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memulai solo travel?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tantangan terbesar dalam sushi?"
+  },
+  {
+    "role": "user",
+    "content": "Apa manfaat dari biografi?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memulai lukisan?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja mitos tentang kota?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tren terbaru di bidang komedi?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja keuntungan dari basket?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tantangan terbesar dalam marketing?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa jelaskan lebih detail tentang kucing?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tips untuk pemula dalam dokumenter?"
+  },
+  {
+    "role": "user",
+    "content": "Apa pendapatmu tentang keuangan?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memilih cybersecurity yang tepat?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memanfaatkan olahraga secara maksimal?"
+  },
+  {
+    "role": "user",
+    "content": "Apa pendapatmu tentang reptil?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengembangkan haute couture?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengembangkan salad?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja alat atau sumber daya yang dibutuhkan untuk blockchain?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tantangan yang dihadapi dalam rock?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tantangan yang dihadapi dalam sci-fi?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tips untuk pemula dalam crypto?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana perkembangan burger saat ini?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri rekomendasi terkait luxury travel?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memulai haute couture?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana perkembangan rambut saat ini?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja inovasi terbaru di bidang haute couture?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja keuntungan dari marketing?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara meningkatkan street food?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa jelaskan lebih detail tentang keuangan?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja inovasi terbaru di bidang emas?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengelola olahraga dengan baik?"
+  },
+  {
+    "role": "user",
+    "content": "Apa yang menarik dari kurikulum?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri tips untuk masakan tradisional?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara meningkatkan jazz?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengatasi masalah dalam makeup?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana perkembangan reksadana saat ini?"
+  },
+  {
+    "role": "user",
+    "content": "Apa yang menarik dari berkebun?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja alat atau sumber daya yang dibutuhkan untuk bulu tangkis?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja mitos tentang anjing?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara meningkatkan fragrance?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja inovasi terbaru di bidang salad?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara meningkatkan klasik?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memulai desa?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri rekomendasi terkait blockchain?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengelola cybersecurity dengan baik?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengatasi masalah dalam salad?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja keuntungan dari MOBA?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa jelaskan lebih detail tentang masakan tradisional?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara meningkatkan novel?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja mitos tentang RPG?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana perkembangan drama saat ini?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana perkembangan kerajinan tangan saat ini?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri tips untuk komik?"
+  },
+  {
+    "role": "user",
+    "content": "Apa yang menarik dari indie games?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa jelaskan lebih detail tentang dokumenter?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tips untuk pemula dalam gunung?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengatasi masalah dalam backpacking?"
+  },
+  {
+    "role": "user",
+    "content": "Apa pendapatmu tentang rock?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja mitos tentang reptil?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja keuntungan dari novel?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana perkembangan reptil saat ini?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tantangan yang dihadapi dalam fotografi?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mempromosikan sci-fi?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mempromosikan olahraga?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana perkembangan pizza saat ini?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja langkah-langkah untuk sukses dalam sushi?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengelola patung dengan baik?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengembangkan keuangan?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja alat atau sumber daya yang dibutuhkan untuk online learning?"
+  },
+  {
+    "role": "user",
+    "content": "Apa pendapatmu tentang startup?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengelola solo travel dengan baik?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara meningkatkan berkebun?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mempromosikan dokumenter?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tantangan yang dihadapi dalam manajemen?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengembangkan e-commerce?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengembangkan pantai?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara meningkatkan properti?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mempromosikan saham?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja kesalahan umum dalam pop?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memanfaatkan online learning secara maksimal?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja keuntungan dari FPS?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengembangkan pop?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tantangan yang dihadapi dalam tenis?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja mitos tentang lukisan?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tips untuk pemula dalam lukisan?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja inovasi terbaru di bidang luxury travel?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja kesalahan umum dalam streetwear?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja mitos tentang kucing?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengembangkan modifikasi?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja kesalahan umum dalam ujian?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja keuntungan dari non-fiksi?"
+  },
+  {
+    "role": "user",
+    "content": "Apa pendapatmu tentang modifikasi?"
+  },
+  {
+    "role": "user",
+    "content": "Apa manfaat dari sastra?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memulai salad?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja keuntungan dari modifikasi?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memanfaatkan aksesoris secara maksimal?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja alat atau sumber daya yang dibutuhkan untuk pantai?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memilih menggambar yang tepat?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja inovasi terbaru di bidang cybersecurity?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja kesalahan umum dalam street food?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja kesalahan umum dalam fotografi?"
+  },
+  {
+    "role": "user",
+    "content": "Apa manfaat dari sushi?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tantangan terbesar dalam perawatan tubuh?"
+  },
+  {
+    "role": "user",
+    "content": "Apa pendapatmu tentang olahraga?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana perkembangan gunung saat ini?"
+  },
+  {
+    "role": "user",
+    "content": "Apa pendapatmu tentang pop?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja alat atau sumber daya yang dibutuhkan untuk meditasi?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mempromosikan rambut?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja kesalahan umum dalam ujian?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tips untuk pemula dalam diet?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa jelaskan lebih detail tentang startup?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri tips untuk cloud computing?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja inovasi terbaru di bidang keuangan?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memanfaatkan backpacking secara maksimal?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengatasi masalah dalam cybersecurity?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tantangan yang dihadapi dalam online learning?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja alat atau sumber daya yang dibutuhkan untuk seni digital?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri rekomendasi terkait menggambar?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengembangkan rambut?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja kesalahan umum dalam menulis?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tantangan terbesar dalam makeup?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri tips untuk jazz?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tips untuk pemula dalam solo travel?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengatasi masalah dalam modifikasi?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja mitos tentang menulis?"
+  },
+  {
+    "role": "user",
+    "content": "Apa yang menarik dari blockchain?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri rekomendasi terkait sastra?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja kesalahan umum dalam skincare?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana perkembangan sepak bola saat ini?"
+  },
+  {
+    "role": "user",
+    "content": "Apa manfaat dari biografi?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memilih fusion food yang tepat?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja inovasi terbaru di bidang mobil sport?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri rekomendasi terkait novel?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengembangkan sustainable fashion?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara meningkatkan reptil?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara meningkatkan yoga?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memanfaatkan haute couture secara maksimal?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja mitos tentang hip-hop?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja inovasi terbaru di bidang indie games?"
+  },
+  {
+    "role": "user",
+    "content": "Apa yang menarik dari motor?"
+  },
+  {
+    "role": "user",
+    "content": "Apa manfaat dari kota?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja inovasi terbaru di bidang menulis?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memulai komedi?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri rekomendasi terkait motor?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memanfaatkan pantai secara maksimal?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja kesalahan umum dalam mental health?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja keuntungan dari sustainable fashion?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memilih non-fiksi yang tepat?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memilih horor yang tepat?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana perkembangan streetwear saat ini?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tren terbaru di bidang menulis?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengatasi masalah dalam indie games?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja inovasi terbaru di bidang olahraga?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja mitos tentang saham?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja kesalahan umum dalam kurikulum?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja kesalahan umum dalam salad?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja langkah-langkah untuk sukses dalam salad?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tren terbaru di bidang horor?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja langkah-langkah untuk sukses dalam masakan tradisional?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja inovasi terbaru di bidang indie games?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri tips untuk ikan?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengembangkan berkebun?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengembangkan cloud computing?"
+  },
+  {
+    "role": "user",
+    "content": "Apa manfaat dari aksesoris?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memanfaatkan horor secara maksimal?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengembangkan horor?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja langkah-langkah untuk sukses dalam haute couture?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja inovasi terbaru di bidang crypto?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tips untuk pemula dalam lukisan?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja keuntungan dari horor?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mempromosikan biografi?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengembangkan novel?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengembangkan patung?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja langkah-langkah untuk sukses dalam jazz?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tren terbaru di bidang mobil listrik?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja keuntungan dari modifikasi?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja kesalahan umum dalam FPS?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana perkembangan modifikasi saat ini?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja inovasi terbaru di bidang sastra?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja langkah-langkah untuk sukses dalam pantai?"
+  },
+  {
+    "role": "user",
+    "content": "Apa yang menarik dari mobil listrik?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tren terbaru di bidang maraton?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tips untuk pemula dalam menggambar?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tantangan yang dihadapi dalam startup?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja kesalahan umum dalam makeup?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara meningkatkan sepak bola?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa jelaskan lebih detail tentang kota?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memanfaatkan pantai secara maksimal?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mempromosikan blockchain?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengelola street food dengan baik?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengatasi masalah dalam menulis?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri rekomendasi terkait aksesoris?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri rekomendasi terkait blockchain?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tren terbaru di bidang marketing?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengembangkan luxury travel?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana perkembangan crypto saat ini?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja kesalahan umum dalam fragrance?"
+  },
+  {
+    "role": "user",
+    "content": "Apa pendapatmu tentang diet?"
+  },
+  {
+    "role": "user",
+    "content": "Apa manfaat dari cloud computing?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memilih olahraga yang tepat?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tantangan yang dihadapi dalam sushi?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja langkah-langkah untuk sukses dalam bulu tangkis?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri rekomendasi terkait rock?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana perkembangan streetwear saat ini?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengelola streetwear dengan baik?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja langkah-langkah untuk sukses dalam budget travel?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja alat atau sumber daya yang dibutuhkan untuk yoga?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tantangan terbesar dalam horor?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja langkah-langkah untuk sukses dalam kerajinan tangan?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengatasi masalah dalam menggambar?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengelola keuangan dengan baik?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa jelaskan lebih detail tentang street food?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mempromosikan rock?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memilih reptil yang tepat?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tantangan terbesar dalam basket?"
+  },
+  {
+    "role": "user",
+    "content": "Apa yang menarik dari game mobile?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memanfaatkan patung secara maksimal?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memulai fragrance?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja inovasi terbaru di bidang klasik?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara meningkatkan berkebun?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memilih marketing yang tepat?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri rekomendasi terkait taman nasional?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengatasi masalah dalam komik?"
+  },
+  {
+    "role": "user",
+    "content": "Apa yang menarik dari manajemen?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mempromosikan e-commerce?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengatasi masalah dalam MOBA?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri tips untuk desa?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tantangan terbesar dalam fragrance?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengatasi masalah dalam mobil listrik?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja langkah-langkah untuk sukses dalam AI?"
+  },
+  {
+    "role": "user",
+    "content": "Apa manfaat dari online learning?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja keuntungan dari reksadana?"
+  },
+  {
+    "role": "user",
+    "content": "Apa manfaat dari novel?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri rekomendasi terkait makeup?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja keuntungan dari kota?"
+  },
+  {
+    "role": "user",
+    "content": "Apa manfaat dari sushi?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memilih makeup yang tepat?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tips untuk pemula dalam menggambar?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tren terbaru di bidang seni digital?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri tips untuk kerajinan tangan?"
+  },
+  {
+    "role": "user",
+    "content": "Apa yang menarik dari startup?"
+  },
+  {
+    "role": "user",
+    "content": "Apa yang menarik dari mobil listrik?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja kesalahan umum dalam diet?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengelola reksadana dengan baik?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tantangan yang dihadapi dalam manajemen?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa jelaskan lebih detail tentang fusion food?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja langkah-langkah untuk sukses dalam reptil?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengelola ikan dengan baik?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengelola RPG dengan baik?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri rekomendasi terkait keuangan?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja alat atau sumber daya yang dibutuhkan untuk indie games?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri rekomendasi terkait tenis?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tantangan terbesar dalam makeup?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja inovasi terbaru di bidang tenis?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tantangan yang dihadapi dalam pizza?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara meningkatkan homeschooling?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tips untuk pemula dalam dessert?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja mitos tentang skincare?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memulai diet?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memanfaatkan non-fiksi secara maksimal?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tantangan yang dihadapi dalam komik?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja alat atau sumber daya yang dibutuhkan untuk sushi?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja keuntungan dari marketing?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tantangan terbesar dalam RPG?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana perkembangan patung saat ini?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri tips untuk kerajinan tangan?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja inovasi terbaru di bidang diet?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tantangan terbesar dalam anjing?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara meningkatkan startup?"
+  },
+  {
+    "role": "user",
+    "content": "Apa pendapatmu tentang bulu tangkis?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri tips untuk crypto?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri rekomendasi terkait properti?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja mitos tentang saham?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri rekomendasi terkait fotografi?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja inovasi terbaru di bidang fotografi?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja keuntungan dari street food?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja kesalahan umum dalam budget travel?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja langkah-langkah untuk sukses dalam reptil?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja langkah-langkah untuk sukses dalam patung?"
+  },
+  {
+    "role": "user",
+    "content": "Apa manfaat dari budget travel?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tips untuk pemula dalam perawatan tubuh?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri rekomendasi terkait manajemen?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana perkembangan motor saat ini?"
+  },
+  {
+    "role": "user",
+    "content": "Apa manfaat dari desa?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara meningkatkan kurikulum?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri tips untuk startup?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana perkembangan IoT saat ini?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja mitos tentang basket?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja langkah-langkah untuk sukses dalam reksadana?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tips untuk pemula dalam skincare?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengatasi masalah dalam komik?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tantangan yang dihadapi dalam kurikulum?"
+  },
+  {
+    "role": "user",
+    "content": "Apa manfaat dari jazz?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja kesalahan umum dalam ujian?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengembangkan pizza?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri rekomendasi terkait solo travel?"
+  },
+  {
+    "role": "user",
+    "content": "Apa yang menarik dari cloud computing?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja langkah-langkah untuk sukses dalam cloud computing?"
+  },
+  {
+    "role": "user",
+    "content": "Apa pendapatmu tentang luxury travel?"
+  },
+  {
+    "role": "user",
+    "content": "Apa manfaat dari streetwear?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana perkembangan reptil saat ini?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri tips untuk klasik?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja langkah-langkah untuk sukses dalam mental health?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja mitos tentang klasik?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja inovasi terbaru di bidang IoT?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memanfaatkan indie games secara maksimal?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja langkah-langkah untuk sukses dalam rambut?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tantangan yang dihadapi dalam sushi?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri rekomendasi terkait backpacking?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memulai komedi?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengembangkan street food?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri rekomendasi terkait yoga?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memilih sustainable fashion yang tepat?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memanfaatkan emas secara maksimal?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana perkembangan RPG saat ini?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja kesalahan umum dalam emas?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara meningkatkan makeup?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tantangan yang dihadapi dalam emas?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja mitos tentang komik?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengembangkan klasik?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri rekomendasi terkait RPG?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengelola desa dengan baik?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memulai hip-hop?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mempromosikan reptil?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana perkembangan luxury travel saat ini?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja keuntungan dari marketing?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tips untuk pemula dalam indie games?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja inovasi terbaru di bidang FPS?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja kesalahan umum dalam berkebun?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memilih tenis yang tepat?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja alat atau sumber daya yang dibutuhkan untuk salad?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri rekomendasi terkait salad?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri rekomendasi terkait blockchain?"
+  },
+  {
+    "role": "user",
+    "content": "Apa yang menarik dari keuangan?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri tips untuk sci-fi?"
+  },
+  {
+    "role": "user",
+    "content": "Apa tren terbaru di bidang manajemen?"
+  },
+  {
+    "role": "user",
+    "content": "Apa pendapatmu tentang motor?"
+  },
+  {
+    "role": "user",
+    "content": "Apa manfaat dari mental health?"
+  },
+  {
+    "role": "user",
+    "content": "Apa pendapatmu tentang AI?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana perkembangan drama saat ini?"
+  },
+  {
+    "role": "user",
+    "content": "Apa manfaat dari MOBA?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara meningkatkan fotografi?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja inovasi terbaru di bidang perawatan tubuh?"
+  },
+  {
+    "role": "user",
+    "content": "Apa manfaat dari indie games?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memilih patung yang tepat?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja inovasi terbaru di bidang saham?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara meningkatkan diet?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tantangan yang dihadapi dalam yoga?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri tips untuk street food?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memanfaatkan sushi secara maksimal?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tantangan yang dihadapi dalam motor?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengembangkan motor?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memanfaatkan anjing secara maksimal?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tips untuk pemula dalam berkebun?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja alat atau sumber daya yang dibutuhkan untuk anjing?"
+  },
+  {
+    "role": "user",
+    "content": "Apa pendapatmu tentang rambut?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja keuntungan dari rock?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tantangan yang dihadapi dalam hip-hop?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tantangan yang dihadapi dalam maraton?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara mengelola properti dengan baik?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja kesalahan umum dalam horor?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja kesalahan umum dalam e-commerce?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja tips untuk pemula dalam tenis?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja mitos tentang fragrance?"
+  },
+  {
+    "role": "user",
+    "content": "Apa saja alat atau sumber daya yang dibutuhkan untuk lukisan?"
+  },
+  {
+    "role": "user",
+    "content": "Bagaimana cara memilih emas yang tepat?"
+  },
+  {
+    "role": "user",
+    "content": "Apa manfaat dari pop?"
+  },
+  {
+    "role": "user",
+    "content": "Bisa beri rekomendasi terkait pizza?"
+  }
+]
