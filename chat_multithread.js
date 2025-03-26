@@ -125,7 +125,7 @@ if (isMainThread) {
             try {
                 parentPort.postMessage(`Sending message ${globalIndex + 1} with ${account.name} using model: ${currentModel}`);
                 const response = await axios.post(url, data, { headers });
-                parentPort.postMessage(`Response for message ${globalIndex + 1} (${account.name}, Model: ${currentModel}): ${JSON.stringify(response.data)}`);
+                parentPort.postMessage(`Response for message ${globalIndex + 1} (${account.name}, Model: ${currentModel}): success`);
                 await new Promise(resolve => setTimeout(resolve, 2000)); // Delay 2 detik
             } catch (error) {
                 parentPort.postMessage(`Error for message ${globalIndex + 1} (${account.name}, Model: ${currentModel}): ${error.response ? JSON.stringify(error.response.data) : error.message}`);
