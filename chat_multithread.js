@@ -40,10 +40,13 @@ if (isMainThread) {
 
     const url = "https://api.hyperbolic.xyz/v1/chat/completions";
 
-    // Fungsi untuk memilih model berdasarkan index
-    function getModelForIndex(index) {
-        const modelIndex = Math.floor(index / 5) % models.length;
-        return models[modelIndex];
+    // Fungsi untuk delay 24 jam
+    function delay24Hours() {
+        const oneDayInMs = 24 * 60 * 60 * 1000; // 24 jam dalam milidetik
+        return new Promise(resolve => {
+            console.log("Waiting for 24 hours before restarting...");
+            setTimeout(resolve, oneDayInMs);
+        });
     }
 
     // Fungsi utama untuk membagi pesan dan membuat worker
@@ -76,17 +79,26 @@ if (isMainThread) {
                     if (code !== 0) reject(new Error(`Worker stopped with exit code ${code}`));
                     completedWorkers++;
                     if (completedWorkers === accounts.length) {
-                        console.log("All messages have been processed.");
+                        console.log("All messages have been processed for this cycle.");
                     }
                     resolve();
                 });
             }));
         }
 
-        await Promise.all(workers);
+        return Promise.all(workers);
     }
 
-    sendMessagesWithThreads().catch(console.error);
+    // Fungsi untuk menjalankan loop tak terbatas
+    async function runForever() {
+        while (true) {
+            console.log("Starting new cycle...");
+            await sendMessagesWithThreads();
+            await delay24Hours();
+        }
+    }
+
+    runForever().catch(console.error);
 } else {
     // Kode untuk worker thread
     const { account, accountMessages, startIdx, models, url } = workerData;
@@ -113,7 +125,7 @@ if (isMainThread) {
             try {
                 parentPort.postMessage(`Sending message ${globalIndex + 1} with ${account.name} using model: ${currentModel}`);
                 const response = await axios.post(url, data, { headers });
-                parentPort.postMessage(`Response for message ${account.name} (${account.name}, Model: ${currentModel}): success`);
+                parentPort.postMessage(`Response for message ${globalIndex + 1} (${account.name}, Model: ${currentModel}): ${JSON.stringify(response.data)}`);
                 await new Promise(resolve => setTimeout(resolve, 2000)); // Delay 2 detik
             } catch (error) {
                 parentPort.postMessage(`Error for message ${globalIndex + 1} (${account.name}, Model: ${currentModel}): ${error.response ? JSON.stringify(error.response.data) : error.message}`);
