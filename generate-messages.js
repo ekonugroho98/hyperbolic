@@ -59,7 +59,7 @@ function generateRandomMessage() {
 
 function generateMessages() {
     const messages = [];
-    for (let i = 1; i <= 1000; i++) {
+    for (let i = 1; i <= 3000; i++) {
         messages.push({
             role: "user",
             content: generateRandomMessage() 
@@ -72,4 +72,4 @@ const messages = generateMessages();
 
 fs.writeFileSync("message.json", JSON.stringify(messages, null, 2), "utf-8");
 
-console.log("File message.json berhasil dibuat dengan 100 pesan yang bervariasi.");
+console.log("File message.json berhasil dibuat dengan pesan yang bervariasi.");
