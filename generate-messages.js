@@ -1,4 +1,5 @@
 const fs = require("fs");
+const readline = require("readline");
 
 const keywords = [
     "AI", "blockchain", "cloud computing", "IoT", "cybersecurity",
@@ -57,9 +58,9 @@ function generateRandomMessage() {
     return randomTemplate.replace("{topic}", randomKeyword);
 }
 
-function generateMessages() {
+function generateMessages(count) {
     const messages = [];
-    for (let i = 1; i <= 3000; i++) {
+    for (let i = 1; i <= count; i++) {
         messages.push({
             role: "user",
             content: generateRandomMessage() 
@@ -68,8 +69,19 @@ function generateMessages() {
     return messages;
 }
 
-const messages = generateMessages();
+const rl = readline.createInterface({
+    input: process.stdin,
+    output: process.stdout
+});
 
-fs.writeFileSync("message.json", JSON.stringify(messages, null, 2), "utf-8");
-
-console.log("File message.json berhasil dibuat dengan pesan yang bervariasi.");
+rl.question("Masukkan jumlah pesan yang ingin dibuat: ", (answer) => {
+    const count = parseInt(answer);
+    if (isNaN(count) || count <= 0) {
+        console.log("Harap masukkan angka yang valid lebih besar dari 0.");
+    } else {
+        const messages = generateMessages(count);
+        fs.writeFileSync("message.json", JSON.stringify(messages, null, 2), "utf-8");
+        console.log(`File message.json berhasil dibuat dengan ${count} pesan yang bervariasi.`);
+    }
+    rl.close();
+});
