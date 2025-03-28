@@ -4,13 +4,12 @@ const { Worker, isMainThread, parentPort, workerData } = require("worker_threads
 require('dotenv').config();
 
 if (isMainThread) {
-    // Kode untuk main thread
     const messages = JSON.parse(fs.readFileSync("message.json", "utf-8"));
+    const accounts = JSON.parse(fs.readFileSync("accounts.json", "utf-8")).filter(account => account.isActive);
 
-    // Daftar model
     const models = [
         "Qwen/QwQ-32B",
-        "deepseek-ai/DeepSeek-R1",
+        // "deepseek-ai/DeepSeek-R1",
         "deepseek-ai/DeepSeek-V3",
         "meta-llama/Llama-3.3-70B-Instruct",
         "Qwen/Qwen2.5-Coder-32B-Instruct",
@@ -23,33 +22,16 @@ if (isMainThread) {
         "meta-llama/Meta-Llama-3.1-70B-Instruct"
     ];
 
-    // Daftar akun
-    const accounts = [
-        { name: "eko181", token: process.env.API_TOKEN_1 },
-        { name: "eko98", token: process.env.API_TOKEN_2 },
-        { name: "aulia", token: process.env.API_TOKEN_3 },
-        { name: "kaysan", token: process.env.API_TOKEN_4 },
-        { name: "rayyan", token: process.env.API_TOKEN_5 },
-        { name: "booking", token: process.env.API_TOKEN_6 },
-        { name: "work", token: process.env.API_TOKEN_7 },
-        { name: "andriyansah", token: process.env.API_TOKEN_8 },
-        { name: "ata", token: process.env.API_TOKEN_9 },
-        { name: "gunawan", token: process.env.API_TOKEN_10 },
-        // Tambahkan akun lain sesuai kebutuhan
-    ];
-
     const url = "https://api.hyperbolic.xyz/v1/chat/completions";
 
-    // Fungsi untuk delay 24 jam
     function delay24Hours() {
-        const oneDayInMs = 24 * 60 * 60 * 1000; // 24 jam dalam milidetik
+        const oneDayInMs = 24 * 60 * 60 * 1000;
         return new Promise(resolve => {
-            console.log("Waiting for 24 hours before restarting...");
+            console.log("Menunggu 24 jam sebelum memulai ulang...");
             setTimeout(resolve, oneDayInMs);
         });
     }
 
-    // Fungsi utama untuk membagi pesan dan membuat worker
     async function sendMessagesWithThreads() {
         const messagesPerAccount = Math.ceil(messages.length / accounts.length);
         const workers = [];
@@ -61,7 +43,6 @@ if (isMainThread) {
             const endIdx = Math.min(startIdx + messagesPerAccount, messages.length);
             const accountMessages = messages.slice(startIdx, endIdx);
 
-            // Buat worker untuk setiap akun
             const worker = new Worker(__filename, {
                 workerData: {
                     account,
@@ -76,10 +57,12 @@ if (isMainThread) {
                 worker.on("message", (msg) => console.log(msg));
                 worker.on("error", reject);
                 worker.on("exit", (code) => {
-                    if (code !== 0) reject(new Error(`Worker stopped with exit code ${code}`));
+                    if (code !== 0) {
+                        reject(new Error(`Worker berhenti dengan kode keluar ${code}`));
+                    }
                     completedWorkers++;
                     if (completedWorkers === accounts.length) {
-                        console.log("All messages have been processed for this cycle.");
+                        console.log("Semua pesan telah diproses untuk siklus ini.");
                     }
                     resolve();
                 });
@@ -89,24 +72,27 @@ if (isMainThread) {
         return Promise.all(workers);
     }
 
-    // Fungsi untuk menjalankan loop tak terbatas
     async function runForever() {
         while (true) {
-            console.log("Starting new cycle...");
+            console.log("Memulai siklus baru...");
             await sendMessagesWithThreads();
             await delay24Hours();
         }
     }
 
-    runForever().catch(console.error);
+    runForever().catch(error => console.error("Kesalahan dalam proses utama:", error));
 } else {
-    // Kode untuk worker thread
     const { account, accountMessages, startIdx, models, url } = workerData;
 
     async function sendMessagesForAccount() {
         const headers = {
             "Content-Type": "application/json",
             "Authorization": `Bearer ${account.token}`
+        };
+
+        const axiosConfig = {
+            headers,
+            proxy: account.isActiveProxy && account.proxy ? parseProxy(account.proxy) : false
         };
 
         for (let i = 0; i < accountMessages.length; i++) {
@@ -123,18 +109,33 @@ if (isMainThread) {
             };
 
             try {
-                parentPort.postMessage(`Sending message ${globalIndex + 1} with ${account.name} using model: ${currentModel}`);
-                const response = await axios.post(url, data, { headers });
-                parentPort.postMessage(`Response for message ${globalIndex + 1} (${account.name}, Model: ${currentModel}): success`);
-                await new Promise(resolve => setTimeout(resolve, 2000)); // Delay 2 detik
+                parentPort.postMessage(`Mengirim pesan ${globalIndex + 1} dengan ${account.userName} menggunakan model: ${currentModel}`);
+                const response = await axios.post(url, data, axiosConfig);
+                parentPort.postMessage(`Respon untuk pesan ${globalIndex + 1} (${account.userName}, Model: ${currentModel}): sukses`);
+                await new Promise(resolve => setTimeout(resolve, 2000));
             } catch (error) {
-                parentPort.postMessage(`Error for message ${globalIndex + 1} (${account.name}, Model: ${currentModel}): ${error.response ? JSON.stringify(error.response.data) : error.message}`);
+                parentPort.postMessage(`Kesalahan untuk pesan ${globalIndex + 1} (${account.userName}, Model: ${currentModel}): ${error.response ? JSON.stringify(error.response.data) : error.message}`);
             }
         }
     }
 
-    sendMessagesForAccount().then(() => process.exit(0)).catch((err) => {
-        console.error(err);
-        process.exit(1);
-    });
+    function parseProxy(proxyString) {
+        const [protocol, rest] = proxyString.split("://");
+        const [auth, hostPort] = rest.split("@");
+        const [host, port] = hostPort.split(":");
+        const [username, password] = auth.split(":");
+        return {
+            protocol,
+            host,
+            port: parseInt(port),
+            auth: { username, password }
+        };
+    }
+
+    sendMessagesForAccount()
+        .then(() => process.exit(0))
+        .catch(error => {
+            console.error("Kesalahan di worker:", error);
+            process.exit(1);
+        });
 }
